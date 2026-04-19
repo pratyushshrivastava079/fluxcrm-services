@@ -1,0 +1,10 @@
+{
+  "key": "leads",
+  "name": "Lead Management",
+  "description": "Capture, track, and convert leads through a Kanban pipeline. Supports web-to-lead forms, email integration, proposals, and one-click conversion to customers.",
+  "version": "1.0.0",
+  "author": "Performex Core Team",
+  "core": true,
+  "dependencies": ["customers"],
+  "routePrefix": "/leads"
+}

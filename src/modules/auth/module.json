@@ -1,0 +1,10 @@
+{
+  "key": "auth",
+  "name": "Authentication",
+  "description": "JWT-based authentication with refresh tokens, 2FA, password reset, and role-based access control for staff. Separate portal auth for client-facing portal users.",
+  "version": "1.0.0",
+  "author": "Performex Core Team",
+  "core": true,
+  "dependencies": [],
+  "routePrefix": "/auth"
+}

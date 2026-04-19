@@ -1,0 +1,10 @@
+{
+  "key": "users",
+  "name": "User Management",
+  "description": "Staff user accounts, roles, and RBAC assignment.",
+  "version": "1.0.0",
+  "author": "Performex Core Team",
+  "core": true,
+  "dependencies": ["auth"],
+  "routePrefix": "/users"
+}

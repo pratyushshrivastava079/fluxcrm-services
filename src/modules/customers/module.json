@@ -1,0 +1,10 @@
+{
+  "key": "customers",
+  "name": "Customers",
+  "description": "Customer company and contact management with custom fields and portal access.",
+  "version": "1.0.0",
+  "author": "Performex Core Team",
+  "core": true,
+  "dependencies": ["auth"],
+  "routePrefix": "/customers"
+}
